@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuchonet_API", "Fuchonet_API\Fuchonet_API.csproj", "{C3203388-1A79-4001-9CA3-3F0A68A3C43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3203388-1A79-4001-9CA3-3F0A68A3C43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3203388-1A79-4001-9CA3-3F0A68A3C43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3203388-1A79-4001-9CA3-3F0A68A3C43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3203388-1A79-4001-9CA3-3F0A68A3C43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {191361FF-2E9A-46C8-B34C-756BD7AE6244}
+	EndGlobalSection
+EndGlobal
